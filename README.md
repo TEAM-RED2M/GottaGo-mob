@@ -1,3 +1,3 @@
 # GottaGo-mob
 
-GottaGo mobile app
+GottaGo mobile application
